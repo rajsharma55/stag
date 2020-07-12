@@ -14,8 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/legion_rolex.mk
+    $(LOCAL_DIR)/stag_rolex.mk
 
 COMMON_LUNCH_CHOICES := \
-    legion_rolex-user \
-    legion_rolex-userdebug
+    stag_rolex-user \
+    stag_rolex-userdebug
