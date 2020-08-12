@@ -41,6 +41,7 @@ PRODUCT_AAPT_PREBUILT_DPI := hdpi
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 720
+TARGET_SCREEN_RES := 720
 
 # Additional native libraries
 PRODUCT_COPY_FILES += \
