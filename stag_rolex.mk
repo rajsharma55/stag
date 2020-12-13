@@ -23,7 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_m.mk)
 # Inherit some common stag stuff
 $(call inherit-product, vendor/stag/main.mk)
 
-TARGET_BOOT_ANIMATION_RES := 720
+TARGET_SCREEN_RES := 720
 
 # Inherit from rolex device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
